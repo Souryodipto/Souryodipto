@@ -32,28 +32,6 @@
 
 <br/>
 
-```ts
-/**
- * ╔══════════════════════════════════════════════════════════════════╗
- * ║              S O U R Y O D I P T O   D E B N A T H              ║
- * ║         Founder & CEO — Resurgenix Technologies                 ║
- * ╚══════════════════════════════════════════════════════════════════╝
- */
-
-const identity = {
-  name          : "SOURYODIPTO DEBNATH",
-  role          : "Founder & Chief Architect",
-  company       : "Resurgenix Technologies",
-  domain        : "https://www.resurgenixtechnologies.com",
-  focus         : "Intelligent CCTV Automation · AI-Powered Surveillance · IoT Systems",
-  philosophy    : "Security is not a product. It is a living, thinking system.",
-  currentStatus : "0 → 1  |  Building in public. Shipping in silence.",
-  lookingFor    : ["Co-founders", "Investors", "Enterprise clients", "Bold collaborators"],
-} as const;
-```
-
-<br/>
-
 ---
 
 ## ◈ The Origin Story
