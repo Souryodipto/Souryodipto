@@ -8,11 +8,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=2500&pause=700&color=F97316&center=true&vCenter=true&width=1000&lines=NOT+JUST+A+DEVELOPER.+A+FOUNDER.;CAMERAS+THAT+THINK.+SYSTEMS+THAT+ACT.;AI+%2B+IoT+%2B+COMPUTER+VISION+%2B+GRIT;RESURGENIX+—+INTELLIGENT+SURVEILLANCE;BUILDING+WHAT+DOESN%27T+EXIST+YET." alt="Typing SVG" />
-</div>
 
-<br/>
 
 <div align="center">
   <a href="https://www.resurgenixtechnologies.com">
