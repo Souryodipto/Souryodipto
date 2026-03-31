@@ -62,7 +62,7 @@ const identity = {
 
 I didn't set out to build a startup. I set out to solve something real.
 
-The world is covered in cameras — millions of eyes watching, recording, and doing almost nothing intelligently. Most CCTV systems are reactive. They show you what happened *after* it already happened. I asked a different question:
+The world is covered in cameras  millions of eyes watching, recording, and doing almost nothing intelligently. Most CCTV systems are reactive. They show you what happened *after* it already happened. I asked a different question:
 
 **What if the camera could think?**
 
