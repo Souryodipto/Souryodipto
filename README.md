@@ -124,30 +124,7 @@ DESTINATION   : PRODUCTS PEOPLE TRUST, USE, AND SCALE WITH
 - Attracting collaborators, investors, and serious opportunities
 - Sharing the journey of going from builder to startup founder in public
 
-## Signal
 
-> I am not chasing trends. I am building technology that can live outside the screen, connect with the physical world, and scale into something people actually depend on.
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Souryodipto&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F766E&icon_color=F97316&text_color=334155&rank_icon=github"
-    alt="GitHub stats"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Souryodipto&hide_border=true&background=FFFFFF00&ring=0F766E&fire=F97316&currStreakLabel=0F766E&sideNums=334155&currStreakNum=111827&dates=64748B&sideLabels=334155"
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Souryodipto&bg_color=ffffff00&color=0F766E&line=F97316&point=14B8A6&area=true&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
 
 ## Connect
 
