@@ -108,12 +108,12 @@ That question became **[Resurgenix Technologies](https://www.resurgenixtechnolog
 ┌──────────────────────────────────────────────────────────────────┐
 │                     RESURGENIX COMMAND CENTER                    │
 ├──────────────────┬───────────────────────────────────────────────┤
-│  STATUS          │  ACTIVE — Building core product infrastructure │
+│  STATUS          │  ACTIVE — Building core product infrastructure│
 │  DOMAIN          │  Intelligent CCTV Automation                  │
-│  STACK           │  AI · CV · IoT · Full-Stack · Edge Computing   │
-│  PHASE           │  Zero to One — Shipping the first version      │
-│  SEEKING         │  Partners · Investors · Enterprise Clients     │
-│  SIGNAL          │  Code speaks louder than pitch decks           │
+│  STACK           │  AI · CV · IoT · Full-Stack · Edge Computing  │
+│  PHASE           │  Zero to One — Shipping the first version     │
+│  SEEKING         │  Partners · Investors · Enterprise Clients    │
+│  SIGNAL          │  Code speaks louder than pitch decks          │
 └──────────────────┴───────────────────────────────────────────────┘
 ```
 
