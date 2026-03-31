@@ -1,246 +1,98 @@
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,30:0a0a0a,60:0F766E,100:F97316&section=header&text=SOURYODIPTO%20DEBNATH&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Founder%20%E2%80%A2%20Resurgenix%20Technologies%20%E2%80%A2%20Intelligent%20Surveillance%20%E2%80%A2%20AI%20%2B%20IoT%20Engineer&descAlignY=62&descSize=16&animation=fadeIn&stroke=0F766E&strokeWidth=2"
-    alt="Souryodipto Debnath — Founder, Resurgenix Technologies"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,30:060d1a,65:0F766E,100:F97316&section=header&text=SOURYODIPTO%20DEBNATH&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Founder%20%E2%80%A2%20Resurgenix%20Technologies%20%E2%80%A2%20Intelligent%20CCTV%20Automation&descAlignY=65&descSize=17&animation=fadeIn&stroke=14B8A6&strokeWidth=2" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=2500&pause=700&color=F97316&center=true&vCenter=true&width=1000&lines=NOT+JUST+A+DEVELOPER.+A+FOUNDER.;CAMERAS+THAT+THINK.+SYSTEMS+THAT+ACT.;AI+%2B+IoT+%2B+COMPUTER+VISION+%2B+GRIT;RESURGENIX+—+INTELLIGENT+SURVEILLANCE;BUILDING+WHAT+DOESN%27T+EXIST+YET." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=1000&lines=NOT+JUST+A+DEVELOPER.+A+FOUNDER+WITH+A+MISSION.;TURNING+CAMERAS+INTO+INTELLIGENCE+—+RESURGENIX;WHERE+AI+MEETS+SECURITY%2C+NOTHING+ESCAPES+NOTICE;BUILDING+THE+FUTURE+OF+INTELLIGENT+SURVEILLANCE"
-    alt="Animated taglines"
-  />
+  <a href="https://www.resurgenixtechnologies.com"><img src="https://img.shields.io/badge/🌐_RESURGENIX_TECHNOLOGIES-Intelligent_CCTV_Automation-0F766E?style=for-the-badge" /></a>
+  <a href="https://github.com/Souryodipto"><img src="https://img.shields.io/badge/GitHub-Souryodipto-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/souryodiptodebnath/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/founder_resurgenix/"><img src="https://img.shields.io/badge/Instagram-@founder__resurgenix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Souryodipto&color=0F766E&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=const+founder+%3D+%22Souryodipto+Debnath%22;const+company+%3D+%22Resurgenix+Technologies%22;const+mission+%3D+%22Cameras+that+think%22;const+status+%3D+%220+%E2%86%92+1+%7C+Building+in+silence%22;const+stack+%3D+%5B%22AI%22%2C+%22IoT%22%2C+%22CV%22%2C+%22Full-Stack%22%5D;" alt="Code typing" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Souryodipto&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2000&pause=500&color=F97316&center=true&vCenter=true&width=800&lines=⚡+TECH+ARSENAL;The+tools+that+build+the+future." alt="Tech arsenal heading" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,react,nextjs,nodejs,mongodb,mysql,git,arduino,raspberrypi&perline=13" alt="Tech stack" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV_·_YOLO_·_TensorFlow-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_/_ML-Training_·_Inference_·_Automation-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-ESP32_·_Raspberry_Pi_·_MQTT-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack-React_·_Next.js_·_Node.js-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-MongoDB_·_MySQL-2563EB?style=flat-square" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2000&pause=500&color=F97316&center=true&vCenter=true&width=800&lines=📊+GITHUB+INTELLIGENCE" alt="Stats heading" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Souryodipto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0F766E&icon_color=F97316&text_color=94a3b8&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Souryodipto&hide_border=true&background=0d1117&ring=0F766E&fire=F97316&currStreakLabel=14B8A6&sideNums=94a3b8&currStreakNum=ffffff&dates=64748B&sideLabels=94a3b8" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souryodipto&layout=compact&hide_border=true&bg_color=0d1117&title_color=0F766E&text_color=94a3b8&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Souryodipto&bg_color=0d1117&color=14B8A6&line=F97316&point=0F766E&area=true&hide_border=true&area_color=0F766E" alt="Contribution graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=18&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Security+is+not+a+product.+It+is+a+living%2C+thinking+system.;The+most+dangerous+builder+is+one+who+never+stops.;Resurgenix+—+Where+AI+meets+surveillance.;If+the+camera+can+see%2C+it+can+think.+We+make+it+think." alt="Quote animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2000&pause=500&color=F97316&center=true&vCenter=true&width=800&lines=🤝+LET%27S+BUILD+SOMETHING+SIGNIFICANT" alt="Connect heading" />
+</div>
 
 <div align="center">
   <a href="https://www.resurgenixtechnologies.com">
-    <img src="https://img.shields.io/badge/🌐%20RESURGENIX%20TECHNOLOGIES-Intelligent%20CCTV%20Automation-0F766E?style=for-the-badge&logoColor=white" alt="Resurgenix Technologies" />
+    <img src="https://img.shields.io/badge/🌐_Visit-Resurgenix_Technologies-0F766E?style=for-the-badge" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Souryodipto">
-    <img src="https://img.shields.io/badge/GitHub-Souryodipto-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/souryodiptodebnath/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/founder_resurgenix/">
-    <img src="https://img.shields.io/badge/Instagram-@founder__resurgenix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/📸_Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
----
-
-<br/>
-
-```ts
-/**
- * ╔══════════════════════════════════════════════════════════════════╗
- * ║              S O U R Y O D I P T O   D E B N A T H              ║
- * ║         Founder & Chief Architect — Resurgenix Technologies      ║
- * ╚══════════════════════════════════════════════════════════════════╝
- */
-
-const identity = {
-  name          : "SOURYODIPTO DEBNATH",
-  role          : "Founder & Chief Architect",
-  company       : "Resurgenix Technologies",
-  domain        : "https://www.resurgenixtechnologies.com",
-  focus         : "Intelligent CCTV Automation · AI-Powered Surveillance · IoT Systems",
-  philosophy    : "Security is not a product. It is a living, thinking system.",
-  currentStatus : "0 → 1  |  Building in public. Shipping in silence.",
-  lookingFor    : ["Co-founders", "Investors", "Enterprise clients", "Bold collaborators"],
-} as const;
-```
-
-<br/>
-
----
-
-## ◈ The Origin Story
-
-> *Every great company starts with a moment of clarity — when someone looks at a broken system and chooses to fix it, permanently.*
-
-I didn't set out to build a startup. I set out to solve something real.
-
-The world is covered in cameras — millions of eyes watching, recording, and doing almost nothing intelligently. Most CCTV systems are reactive. They show you what happened *after* it already happened. I asked a different question:
-
-**What if the camera could think?**
-
-That question became **[Resurgenix Technologies](https://www.resurgenixtechnologies.com)** — a company built at the intersection of computer vision, embedded intelligence, and real-world security infrastructure. We are not building another software dashboard. We are re-engineering how surveillance works, from the sensor to the decision.
-
----
-
-## ◈ The Company — Resurgenix Technologies
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🔍 Intelligent CCTV Automation</h3>
-        <p>AI-driven surveillance systems that detect, classify, and act in real time — not after the fact.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🧠 Computer Vision Core</h3>
-        <p>Custom-trained vision models for anomaly detection, object tracking, and behavioral analysis.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>⚡ Edge + Cloud Architecture</h3>
-        <p>Processing intelligence at the device level with cloud orchestration for scale, speed, and reliability.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>📡 IoT-Embedded Intelligence</h3>
-        <p>ESP32, Raspberry Pi, and custom hardware pipelines — where software meets the physical world.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🏗️ Scalable Platform Infrastructure</h3>
-        <p>Full-stack product engineering built for enterprise environments, security agencies, and smart cities.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🚀 Founder-Led Execution</h3>
-        <p>Not a side project. A company with a roadmap, a vision, and the relentless drive to make it real.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## ◈ Evolution — From Engineer to Founder
-
-<div align="center">
-
-| Chapter | The Shift |
-|:-------:|:---------|
-| **I** | Wrote code to solve problems. Fell in love with building. |
-| **II** | Explored AI, embedded systems, and full-stack engineering simultaneously. |
-| **III** | Asked: *"Why isn't the existing surveillance tech smarter?"* |
-| **IV** | Started designing the answer. Resurgenix was born. |
-| **V** | Building the company — systems, infrastructure, product, brand — from scratch. |
-| **∞** | The mission: make intelligent security accessible, autonomous, and unstoppable. |
-
-</div>
-
----
-
-## ◈ Operational Status
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                     RESURGENIX COMMAND CENTER                    │
-├──────────────────┬───────────────────────────────────────────────┤
-│  STATUS          │  ACTIVE — Building core product infrastructure │
-│  DOMAIN          │  Intelligent CCTV Automation                  │
-│  STACK           │  AI · CV · IoT · Full-Stack · Edge Computing   │
-│  PHASE           │  Zero to One — Shipping the first version      │
-│  SEEKING         │  Partners · Investors · Enterprise Clients     │
-│  SIGNAL          │  Code speaks louder than pitch decks           │
-└──────────────────┴───────────────────────────────────────────────┘
-```
-
----
-
-## ◈ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,react,nextjs,nodejs,mongodb,mysql,git,arduino,raspberrypi&perline=12" alt="Core tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20·%20YOLO%20·%20TensorFlow-0F766E?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Model%20Training%20·%20Inference%20·%20Automation-111827?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IoT-ESP32%20·%20Raspberry%20Pi%20·%20MQTT-F97316?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20·%20Next.js%20·%20TypeScript-0F766E?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend-Node.js%20·%20REST%20APIs%20·%20WebSockets-F97316?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Database-MongoDB%20·%20MySQL-2563EB?style=flat-square" />
-</p>
-
----
-
-## ◈ GitHub Intelligence
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Souryodipto&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F766E&icon_color=F97316&text_color=94a3b8&rank_icon=github&include_all_commits=true"
-    alt="GitHub stats"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Souryodipto&hide_border=true&background=FFFFFF00&ring=0F766E&fire=F97316&currStreakLabel=0F766E&sideNums=94a3b8&currStreakNum=ffffff&dates=64748B&sideLabels=94a3b8"
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Souryodipto&bg_color=0d1117&color=0F766E&line=F97316&point=14B8A6&area=true&hide_border=true&area_color=0F766E"
-    alt="Contribution graph"
-  />
-</p>
-
----
-
-## ◈ The Conviction
-
-> *The most dangerous person in any room is the one who can build the product, architect the system, and still wake up every day obsessed with the problem.*
->
-> — That's the standard I hold myself to.
-
-I am not here to collect GitHub stars or chase LinkedIn impressions.
-
-I am here to build **Resurgenix Technologies** into a company that changes how the world watches over itself — through cameras that don't just see, but understand.
-
-Every line of code. Every circuit. Every product decision. It all points to one outcome: **technology that protects, at scale, intelligently.**
-
----
-
-## ◈ Let's Build Something Significant
-
-<p align="center">
-  If you are an investor backing the next wave of AI-driven security infrastructure —<br/>
-  If you are an enterprise seeking autonomous, intelligent surveillance solutions —<br/>
-  If you are a builder who wants to work on something that genuinely matters —
-</p>
-
-<p align="center"><strong>The door is open. Let's talk.</strong></p>
-
-<p align="center">
-  <a href="https://www.resurgenixtechnologies.com">
-    <img src="https://img.shields.io/badge/🌐%20Visit-Resurgenix%20Technologies-0F766E?style=for-the-badge" alt="Resurgenix website" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/souryodiptodebnath/">
-    <img src="https://img.shields.io/badge/💼%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/founder_resurgenix/">
-    <img src="https://img.shields.io/badge/📸%20Follow%20the%20Journey-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 <br/>
 
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F97316,50:0F766E,100:000000&section=footer&text=Founder.%20Architect.%20Inevitable.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=65"
-    alt="Footer"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F97316,50:0F766E,100:000000&section=footer&text=Founder.%20Architect.%20Inevitable.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer" />
 </div>
