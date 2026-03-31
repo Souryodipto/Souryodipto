@@ -40,7 +40,7 @@
 /**
  * ╔══════════════════════════════════════════════════════════════════╗
  * ║              S O U R Y O D I P T O   D E B N A T H              ║
- * ║         Founder & Chief Architect — Resurgenix Technologies      ║
+ * ║         Founder & CEO — Resurgenix Technologies                 ║
  * ╚══════════════════════════════════════════════════════════════════╝
  */
 
